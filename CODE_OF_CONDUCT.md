@@ -8,13 +8,11 @@ experience for everyone, regardless of age, body size, disability, ethnicity,
 gender identity and expression, level of experience, nationality, personal appearance,
 race, religion, or sexual identity and orientation.
 
-This Code of Conduct applies to all projects maintained by The Bitcoin RM Team, including:
-https://www.bitcoinrm.org
-https://www.ECI30.com
+This Code of Conduct applies to all projects maintained by The Bitcoin RM Team, including:  
+https://www.bitcoinrm.org  
+https://www.ECI30.com  
 
-and
-
-all coin teams that are listed as members of Emerging Coin Index at https://www.ECI30.com
+and to all coin teams that are listed as members of Emerging Coin Index at https://www.ECI30.com
 
 ## Our Standards
 
