@@ -2,12 +2,19 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we (The Bitcoin RM Team)
-as Project Maintainers (for Bitcoin RM and Emerging Coin Index) pledge to making 
-participation in our projects and our community a harassment-free experience for everyone,
-regardless of age, body size, disability, ethnicity, gender identity and expression,
-level of experience, nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+In the interest of fostering an open and welcoming environment, we as Project Maintainers
+pledge to making participation in our projects and our community a harassment-free
+experience for everyone, regardless of age, body size, disability, ethnicity,
+gender identity and expression, level of experience, nationality, personal appearance,
+race, religion, or sexual identity and orientation.
+
+This Code of Conduct applies to all projects maintained by The Bitcoin RM Team, including:
+https://www.bitcoinrm.org
+https://www.ECI30.com
+
+and
+
+all coin teams that are listed as members of Emerging Coin Index at https://www.ECI30.com
 
 ## Our Standards
 
@@ -72,7 +79,7 @@ Examples of Enforcement Actions on Offenders:
 * Offenders in our Social Media websites (such as Facebook, Twitter) will be banned,
 unfollowed or reported
 
-#### A member coin in Emerging Coin Index that does not follow or enforce this Code of Conduct in good faith may face temporary or permanent expulsion in Emerging Coin Index
+#### A member coin in Emerging Coin Index that does not follow or enforce this Code of Conduct in good faith may face temporary or permanent expulsion from Emerging Coin Index
 
 ## Attribution
 
