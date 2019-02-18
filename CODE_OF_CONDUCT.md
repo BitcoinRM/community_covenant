@@ -1,13 +1,13 @@
-# Bitcoin RM Code of Conduct
+# Code of Conduct
 
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we (The Bitcoin RM Team)
-as Project Maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+as Project Maintainers (for Bitcoin RM and Emerging Coin Index) pledge to making 
+participation in our projects and our community a harassment-free experience for everyone,
+regardless of age, body size, disability, ethnicity, gender identity and expression,
+level of experience, nationality, personal appearance, race, religion, or sexual identity
+and orientation.
 
 ## Our Standards
 
@@ -64,6 +64,15 @@ Further details of specific enforcement policies may be posted separately.
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
+
+Examples of Enforcement Actions on Offenders:
+
+* Offenders in our Discord channels, including voice channels, will be banned
+* Offenders in our BitcoinTalk threads will be banned or reported as appropriate
+* Offenders in our Social Media websites (such as Facebook, Twitter) will be banned,
+unfollowed or reported
+
+#### A member coin in Emerging Coin Index that does not follow or enforce this Code of Conduct in good faith may face temporary or permanent expulsion in Emerging Coin Index
 
 ## Attribution
 
