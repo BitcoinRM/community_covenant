@@ -13,8 +13,6 @@ https://www.bitcoinrm.org
 https://www.bitcoinrm.com
 https://www.crypsia.com
 
-and to all coin teams that are listed as members of Emerging Coin Index at https://www.ECI30.com
-
 ## Our Standards
 
 Examples of behavior that contributes to creating a positive environment
