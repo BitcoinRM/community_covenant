@@ -9,8 +9,11 @@ gender identity and expression, level of experience, nationality, personal appea
 race, religion, or sexual identity and orientation.
 
 This Code of Conduct applies to all projects maintained by The Bitcoin RM Team, including:  
+
 https://www.bitcoinrm.org  
+
 https://www.bitcoinrm.com
+
 https://www.crypsia.com
 
 ## Our Standards
